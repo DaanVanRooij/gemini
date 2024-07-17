@@ -11,8 +11,8 @@ st.title("XIPE")
 st.subheader("The cross impact performance emissions model")
 
 #logos
-st.sidebar.image('images\cnl-logo.png',use_column_width=True)
-st.sidebar.image('images\gemini_logo.png', use_column_width=True)
+#st.sidebar.image('images\cnl-logo.png',use_column_width=True)
+#st.sidebar.image('images\gemini_logo.png', use_column_width=True)
 
 #input
 col1, col2 = st.columns(2)
